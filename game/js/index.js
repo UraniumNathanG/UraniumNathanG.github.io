@@ -6,9 +6,8 @@ if (question === "End") {
   alert("You were safe from getting your pokemon defeated. Continue");
 } else {
   alert("The opponent use his trainer card to destroy your pokemon and he wins the game. Start over.");
-}
-  
-alert("If you are successful continue. If you failed, then start over.");
+
+alert("If you are successful continue. If you failed, then start over.");}
 
 var question2 = prompt("You successfuly avoided the trap and your opponent is going to attack your pokemon. Do you want to use your trainer card? Choices: Yes or No. First letter is capital");
 if (question2 === "Yes") {
@@ -34,6 +33,7 @@ var question4 = prompt("Now is your chance to attack, but you also have a traine
     alert("Opponent negated the trainer card and won the game. Start Over.");
     alert("If you are successful continue. If you failed, then start over.");
 } 
+  
 var question5 = prompt("Your opponent started to rage and punch you, what will you do? Choices: Block or Counter . First letter is capital");
 if (question5 === "Block") {
   alert("You were safe and the security guards carried your opponent away. you recieved your medal for winning. Congratulations.");
