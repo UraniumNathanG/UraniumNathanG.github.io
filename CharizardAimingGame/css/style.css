@@ -1,0 +1,47 @@
+body
+{
+  background-image: url("http://data.whicdn.com/images/62545391/large.png");
+  background-size: cover;
+}
+
+.Pikachu{
+  color:red;
+  text-align:center;
+}
+button {
+  font-size:30px;
+  display:block;
+  margin:auto;}=
+button:hover {
+  background-color:red;
+}c!
+
+.Rules
+{
+  color:red;
+}
+
+.ghastly1 {
+  position: absolute;
+  display: inline-block;
+}
+.lol1 {
+  position: absolute;
+  display: inline-block;
+}
+.enemies {
+  position: absolute;
+  display: inline-block;
+}
+.lol2 {
+  position: absolute;
+  display: inline-block;
+}
+.enemies9 {
+  position: absolute;
+  display: inline-block;
+}
+.enemies10 {
+  position: absolute;
+  display: inline-block;
+}
